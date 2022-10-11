@@ -25,6 +25,13 @@ export default function App() {
 
           <section className="painel-de-videos">
             <CardVideo/>  
+            <CardVideo/>  
+            <CardVideo/>  
+            <CardVideo/>  
+            <CardVideo/>  
+            <CardVideo/>  
+            <CardVideo/>  
+            <CardVideo/>  
           </section>
         </main>
 

@@ -11,27 +11,6 @@ export default function CardVideo(){
             <div className="box-pagina-principal" onClick={reproduzVideo}>
                 <InfoUsuario/>
             </div>
-            <div className="box-pagina-principal" onClick={reproduzVideo}>
-                <InfoUsuario/>
-            </div>
-            <div className="box-pagina-principal" onClick={reproduzVideo}>
-                <InfoUsuario/>
-            </div>
-            <div className="box-pagina-principal" onClick={reproduzVideo}>
-                <InfoUsuario/>
-            </div>
-            <div className="box-pagina-principal" onClick={reproduzVideo}>
-                <InfoUsuario/>
-            </div>
-            <div className="box-pagina-principal" onClick={reproduzVideo}>
-                <InfoUsuario/>
-            </div>
-            <div className="box-pagina-principal" onClick={reproduzVideo}>
-                <InfoUsuario/>
-            </div>
-            <div className="box-pagina-principal" onClick={reproduzVideo}>
-                <InfoUsuario/>
-            </div>
         </>
     )
 }
