@@ -1,5 +1,5 @@
 import React from "react";
-import InfoUsuario from "../InfosUsuario";
+import InfoUsuario from "./InfosUsuario";
 
 export default function CardVideo(){
     function reproduzVideo() {

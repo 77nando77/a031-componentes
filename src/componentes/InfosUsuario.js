@@ -1,12 +1,13 @@
 import React from "react";
+import pavao from "../pavão.jpg"
 
 export default function InfoUsuario(){
-    const titulo = "Título do vídeo";
+    const usuario= "Luiz Fernando";
 
     return(
         <>
-            <img src="https://picsum.photos/400/400?a=1 " alt="" />
-            <h4>{titulo}</h4>
+            <img src={pavao} alt="" />
+            <h4>{usuario}</h4>
         </>
     )
 }
