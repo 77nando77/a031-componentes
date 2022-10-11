@@ -1,6 +1,6 @@
 import React from "react";
 import "./styles.css";
-import CardVideo from "./CardVideo";
+import CardVideo from "./componentes/CardVideo";
 
 export default function App() {
   return (
